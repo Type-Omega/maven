@@ -6,7 +6,7 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ORG = "GTInfinityAscension"
+ORG = "Type-Omega"
 
 
 def gh(*args: str) -> str:
