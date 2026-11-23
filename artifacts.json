@@ -6,9 +6,9 @@
     "asset": "gtna-{version}.jar"
   },
   {
-    "repo": "GTIA-Lib",
-    "group": "com.gtinfinityascension",
-    "artifact": "gtialib",
-    "asset": "gtialib-{version}.jar"
+    "repo": "TypeOmega-Lib",
+    "group": "com.typeomega",
+    "artifact": "typeomega-lib",
+    "asset": "typeomega-lib-{version}.jar"
   }
 ]
