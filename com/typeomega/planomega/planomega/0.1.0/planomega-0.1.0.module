@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.typeomega.planomega",
+    "module": "planomega",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "planomega-0.1.0-sources.jar",
+          "url": "planomega-0.1.0-sources.jar",
+          "size": 139476,
+          "sha512": "7de809a23f2191eb6cc53ed2b1c5891b3695cabc0332bc56588481166542ebd2fc143364cd0a7d126215d5c7c6b1c50dec5f62fa8b4ab367f8e0c37fcda0bb8c",
+          "sha256": "b64df67599c90a5d4a7c466327fa448aedb77b0f2c42c6243f086414963c58d6",
+          "sha1": "7d8dfcec729fe776584826e4c609355ef70a83aa",
+          "md5": "3caf43bea7bd4e2fc754e3492e43f0be"
+        }
+      ]
+    },
+    {
+      "name": "reobfRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "planomega-0.1.0.jar",
+          "url": "planomega-0.1.0.jar",
+          "size": 3027169,
+          "sha512": "a32ee18bdb2d47d47c189ffef791b9e11ab0cd3198f583a08fe12d19e7d28b1c2e43af98fce650d6de2ad0d5900b576c6f63f074f1ad0ab90f9d936331a9054a",
+          "sha256": "7ebf44f80031a68a973160cfbada46a01475451b848577068210847ab95d8696",
+          "sha1": "958a213fb5c932fdfe6a12b5c952da19f76e28fc",
+          "md5": "4862379bcda6813ec22424c10557468b"
+        }
+      ]
+    },
+    {
+      "name": "reobfApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "planomega-0.1.0.jar",
+          "url": "planomega-0.1.0.jar",
+          "size": 3027169,
+          "sha512": "a32ee18bdb2d47d47c189ffef791b9e11ab0cd3198f583a08fe12d19e7d28b1c2e43af98fce650d6de2ad0d5900b576c6f63f074f1ad0ab90f9d936331a9054a",
+          "sha256": "7ebf44f80031a68a973160cfbada46a01475451b848577068210847ab95d8696",
+          "sha1": "958a213fb5c932fdfe6a12b5c952da19f76e28fc",
+          "md5": "4862379bcda6813ec22424c10557468b"
+        }
+      ]
+    }
+  ]
+}
