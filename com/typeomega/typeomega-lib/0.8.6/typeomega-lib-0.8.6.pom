@@ -3,5 +3,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.typeomega</groupId>
   <artifactId>typeomega-lib</artifactId>
-  <version>0.8.1</version>
+  <version>0.8.6</version>
 </project>
